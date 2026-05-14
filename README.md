@@ -104,6 +104,31 @@ A work exploring revelation, mercy, truth, distortion, discipleship, return, and
 **MUHAMMAD ﷺ — The Life That Changed Everything**  
 A work exploring the life, character, mercy, leadership, revelation, mission, and final prophetic model of the Messenger of Allah ﷺ.
 
+## Additional Book Series
+
+### The Architect’s Protocol
+
+**The Architect’s Protocol** is a five-book civilizational audit series by Syed Raheel Shahzad.
+
+The series examines post-truth collapse, jungle power, moral relativism, the authored universe, artificial intelligence, transhumanism, and the final human choice to remain human.
+
+Official series page:
+
+https://syedraheelshahzad.com/architects-protocol/
+
+Official GitHub repository:
+
+https://github.com/SyedRaheelShahzad/the-architects-protocol/
+
+### Books in The Architect’s Protocol
+
+- GOD IS BACK
+- THE JUNGLE PROTOCOL
+- THE MORAL ANCHOR
+- AUTHORED
+- THE LAST U-TURN
+  
+
 ## Published Work Reference
 
 **MUHAMMAD ﷺ — The Life That Changed Everything**  
@@ -118,6 +143,9 @@ https://github.com/SyedRaheelShahzad
 
 **Official Images Repository:**  
 https://github.com/SyedRaheelShahzad/syed-raheel-shahzad-official-images
+
+**The Architect’s Protocol Repository:**  
+https://github.com/SyedRaheelShahzad/the-architects-protocol
 
 ## Official Public Reference
 
